@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Bruno PC\Desktop\Nova pasta\FarmaciaVida\farmacia\farmacia\.metadata\.plugins\org.eclipse.jdt.core
+1010008243.index
+702755752.index
